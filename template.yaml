@@ -13,8 +13,8 @@ Metadata:
     LicenseUrl: LICENSE
     ReadmeUrl: README.md
     Labels: ['amazon', 'eventbridge', 'integration', 'solution', 'lambda', 'step_functions', 'aws', 'attachment']
-    HomePageUrl: https://github.com/aws-quickstart/eventbridge-integration-solution-zendesk-attachment-processing
-    SemanticVersion: 0.1.1
+    HomePageUrl: https://aws.amazon.com/quickstart/eventbridge/zendesk-attachment-processing/
+    SemanticVersion: 0.1.2
     SourceCodeUrl: https://github.com/aws-quickstart/eventbridge-integration-solution-zendesk-attachment-processing
   AWS::CloudFormation::Interface:
     ParameterGroups:
